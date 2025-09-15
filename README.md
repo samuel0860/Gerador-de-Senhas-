@@ -41,5 +41,3 @@ Adicionar modo claro/escuro.
 👨‍💻 Autor
 
 Projeto desenvolvido por Samuel Sales ✨
-👉 LinkedIn
-| GitHub
