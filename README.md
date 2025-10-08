@@ -16,7 +16,9 @@ Botão para copiar a senha gerada para a área de transferência.
 Design moderno e responsivo, com animações suaves e fundo estilizado.
 
 📂 Estrutura do Projeto
+
 📁 gerador-senhas
+
 │── index.html # Estrutura do site
 │── style.css # Estilos e animações
 │── script.js # Lógica em JavaScript
